@@ -8,6 +8,6 @@ It involves:
 
 In this system the user can add,modify and delete his or her daily transactions.
 
-#How To Run The Project
+# How To Run The Project
 
 
