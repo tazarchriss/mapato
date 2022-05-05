@@ -1,5 +1,5 @@
 # mapato
-This Project will allow the user to manage his or her income digitally.
+This Project allows the user to manage his or her income digitally.
 It involves:
 -daily earnings
 -savings
